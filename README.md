@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Oluwafemi Matthew (Fmgold)
 
-<!--
-**fmgold/fmgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Embedded Systems & IoT Engineer | Problem Solver | Tech Innovator**
 
-Here are some ideas to get you started:
+I’m passionate about building impactful embedded and IoT systems — from access control and smart energy monitors to telehealth platforms and smart waste bins. I focus on hardware-software co-design, real-time data systems, and cost-effective innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Skills
+
+- **Microcontrollers:** ESP32, STM32, ATmega, Arduino, Raspberry Pi
+- **Protocols:** UART, I2C, SPI, Wiegand, MQTT, HTTP, CAN
+- **Wireless:** Wi-Fi, GSM (SIM7600, A7672E, SIM800L), BLE, LoRa
+- **Embedded OS:** FreeRTOS
+- **Displays & UI:** TFT (LVGL), OLED, Touchscreens
+- **Cloud:** Firebase, Custom APIs, OTA Updates
+- **Design Tools:** PlatformIO, VS Code, Altium, EasyEDA, KICAD
+- **Storage:** SD Card, EEPROM, Firebase RTDB
+- **Other:** Sensors, Relays, Buzzer, Fingerprint, RFID
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 [ESP32 Access Control System](https://github.com/fmgold/Access-granting-IoT-Student-fingerprint)
+A two-factor access system with fingerprint + RFID, integrated with Firebase and SD card logging. Includes TFT UI, real-time RTC, and admin/user modes.
+
+### 💡 [Smart IoT Home Energy Monitor](https://github.com/fmgold/IoT-Based-Home-Automation)
+Monitors voltage, current, and energy usage using PZEM-004T and ESP32. Features OLED display, Firebase logging, and power cut-off for overload protection.
+
+### 🗑️ [Smart Waste Bin System](https://github.com/fmgold/smart-wastebin)
+IoT-based waste bin with rotten level detection, fill monitoring, proximity sensing, and alert notifications via LED, buzzer, and push/email.
+
+---
+
+## 📈 My Goals
+
+- 🚀 Master advanced embedded design & RTOS
+- 🌍 Build scalable IoT solutions for real-world problems
+- 💼 Collaborate on impactful tech and health projects
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/oluwafemi-olabukoye/])
+- 📧 Email: oluwafemiolabukoye@gmail.com
+- 🌐 Portfolio: (Coming soon)
+
+---
+
+> “Innovation is solving everyday problems with simplicity and technology.”  
+> — Oluwafemi Matthew (Fmgold)
