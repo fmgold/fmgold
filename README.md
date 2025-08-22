@@ -2,7 +2,7 @@
 
 🎯 **Embedded Systems & IoT Engineer | Problem Solver | Tech Innovator**
 
-I’m passionate about building impactful embedded and IoT systems — from access control and smart energy monitors to telehealth platforms and smart waste bins. I focus on hardware-software co-design, real-time data systems, and cost-effective innovation.
+I’m passionate about building impactful embedded and IoT systems from access control and smart energy monitors to telehealth platforms and smart waste bins. I focus on hardware-software co-design, real-time data systems, and cost-effective innovation.
 
 ---
 
