@@ -9,8 +9,8 @@ I’m passionate about building impactful embedded and IoT systems from access c
 ## 🛠️ Core Skills
 
 - **Microcontrollers:** ESP32, STM32, ATmega, Arduino, Raspberry Pi
-- **Protocols:** UART, I2C, SPI, Wiegand, MQTT, HTTP, CAN
-- **Wireless:** Wi-Fi, GSM (SIM7600, A7672E, SIM800L), BLE, LoRa
+- **Protocols:** UART, I2C, SPI, Wiegand, MQTT, HTTP/HTTPS, CAN, I2S
+- **Wireless:** Wi-Fi, GSM (SIM7600, A7672E, SIM800L), BLE, LoRa, ZigBee
 - **Embedded OS:** FreeRTOS
 - **Displays & UI:** TFT (LVGL), OLED, Touchscreens
 - **Cloud:** Firebase, Custom APIs, OTA Updates
